@@ -1,0 +1,1 @@
+As in the original paper, transcripts with low read counts in RNA-seq (<30 raw reads) or low ribosome footprints (<80 raw footprint tags in siLuc library) were removed.
